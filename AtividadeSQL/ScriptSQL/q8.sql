@@ -1,0 +1,1 @@
+SELECT * FROM Professores WHERE ativo = true;

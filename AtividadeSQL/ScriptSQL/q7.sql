@@ -1,0 +1,1 @@
+DELETE FROM Materias WHERE idMateria = 2;
